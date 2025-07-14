@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Gửi KPhuongNek",
     introTitle: 'Xinh đẹp iu dấu',
-    introDesc: `Trái đất vốn lạ thường`,
+    introDesc: `Tốt bụng`,
     btnIntro: '^^Hẹ hẹ^^',
     title: 'Sắp đến dịp đi bỉn, để Trùn Bướng đưa em đi lấp đầy thêm tủ đồ nhak 🥰',
     desc: 'Thoát web là chấp nhận một cách phũ phàng nhak!!!',
